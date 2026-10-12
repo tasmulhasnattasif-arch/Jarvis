@@ -1,2 +1,1 @@
-# Jarvis
-I want to make this ai assistant in my phone
+o git hub.com/open-jarvis/OpenJarvis-download this
